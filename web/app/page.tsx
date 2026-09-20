@@ -2,7 +2,11 @@ import { Tabs, type TabDef } from "@/components/Tabs";
 import { Chart, ChartGrid } from "@/components/Chart";
 import { InsightCard } from "@/components/InsightCard";
 import { DataTable } from "@/components/DataTable";
-import { provinsi, metrik, partaiNasional, pilpresNasional } from "@/lib/data";
+import { DatasetPanel } from "@/components/DatasetPanel";
+import { MetodologiPanel } from "@/components/MetodologiPanel";
+import { provinsi, metrik, pilpresNasional } from "@/lib/data";
+import { datasets } from "@/lib/datasets";
+import { models } from "@/lib/metodologi";
 
 const V = (name: string) => `/viz/viz_${name}.png`;
 
@@ -232,6 +236,30 @@ const tabs: TabDef[] = [
         lead="Demokrat turun tajam, Gerindra meroket, PDIP stabil sebagai partai pemenang."
       >
         <Chart src={V("historis")} alt="Historis" />
+      </Section>
+    ),
+  },
+  {
+    id: "dataset",
+    label: "Dataset",
+    content: (
+      <Section
+        title="Dataset Lengkap"
+        lead="5 dataset CSV yang dipakai project ini — bisa didownload langsung, cocok untuk reproduksi analisis atau riset lanjutan."
+      >
+        <DatasetPanel items={datasets} />
+      </Section>
+    ),
+  },
+  {
+    id: "metodologi",
+    label: "Metodologi AI",
+    content: (
+      <Section
+        title="Metodologi AI, ML, & Sentimen"
+        lead="Detail teknis setiap model: hyperparameter, kode Python, metrik, dan interpretasi. Transparansi penuh — semua reproducible."
+      >
+        <MetodologiPanel items={models} />
       </Section>
     ),
   },
