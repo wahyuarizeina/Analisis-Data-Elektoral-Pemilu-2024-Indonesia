@@ -13,6 +13,7 @@ Analisis data elektoral Pemilu 2024 Indonesia end-to-end: EDA · segmentasi K-Me
 - **Notebook:** [Analisis_Elektoral_Pemilu_2024.ipynb](Analisis_Elektoral_Pemilu_2024.ipynb)
 - **Slide deck:** [Slides_Elektoral_2024.pptx](Slides_Elektoral_2024.pptx)
 - **Laporan analis:** [INSIGHTS.md](INSIGHTS.md)
+- **Tanya-jawab lengkap:** [TANYA_JAWAB.md](TANYA_JAWAB.md) — referensi menyeluruh setiap komponen + Q&A wawancara
 
 ### Deploy ke Vercel (1x klik)
 1. https://vercel.com/new → import repo ini
