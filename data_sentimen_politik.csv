@@ -1,0 +1,61 @@
+topik,bulan,bulan_num,positif_pct,netral_pct,negatif_pct,volume_percakapan
+Pilpres 2024,Jan,1,46.24,27.14,26.62,13772
+Pilpres 2024,Feb,2,49.11,23.57,27.33,34198
+Pilpres 2024,Mar,3,44.43,32.13,23.44,19256
+Pilpres 2024,Apr,4,44.74,28.49,26.78,18775
+Pilpres 2024,Mei,5,43.67,34.4,21.93,24874
+Pilpres 2024,Jun,6,42.97,31.54,25.49,27026
+Pileg 2024,Jan,1,36.64,39.24,24.12,10406
+Pileg 2024,Feb,2,39.24,31.59,29.17,11613
+Pileg 2024,Mar,3,37.1,36.34,26.57,9272
+Pileg 2024,Apr,4,36.26,36.37,27.37,32513
+Pileg 2024,Mei,5,39.72,37.4,22.88,43874
+Pileg 2024,Jun,6,39.99,31.8,28.2,42109
+Kabinet Prabowo,Jan,1,41.71,36.99,21.3,38663
+Kabinet Prabowo,Feb,2,40.5,36.9,22.6,28079
+Kabinet Prabowo,Mar,3,43.41,33.68,22.91,8204
+Kabinet Prabowo,Apr,4,44.43,28.95,26.62,34973
+Kabinet Prabowo,Mei,5,41.1,33.87,25.03,20243
+Kabinet Prabowo,Jun,6,45.94,31.09,22.97,20031
+Kenaikan Harga Pangan,Jan,1,17.03,23.15,59.82,12424
+Kenaikan Harga Pangan,Feb,2,17.01,20.4,62.59,28767
+Kenaikan Harga Pangan,Mar,3,13.91,31.44,54.65,8940
+Kenaikan Harga Pangan,Apr,4,15.55,20.04,64.41,26817
+Kenaikan Harga Pangan,Mei,5,12.45,21.45,66.09,16465
+Kenaikan Harga Pangan,Jun,6,11.2,26.86,61.93,13965
+Korupsi,Jan,1,12.29,19.04,68.68,41024
+Korupsi,Feb,2,10.78,18.18,71.04,41155
+Korupsi,Mar,3,7.24,22.54,70.22,38266
+Korupsi,Apr,4,4.84,22.49,72.66,16217
+Korupsi,Mei,5,7.14,20.86,72.0,27195
+Korupsi,Jun,6,8.51,14.98,76.51,43955
+Ekonomi,Jan,1,27.2,34.65,38.15,9904
+Ekonomi,Feb,2,38.46,24.39,37.15,16863
+Ekonomi,Mar,3,32.51,27.03,40.46,16792
+Ekonomi,Apr,4,34.78,24.36,40.86,31395
+Ekonomi,Mei,5,34.67,30.61,34.72,9508
+Ekonomi,Jun,6,32.08,28.73,39.18,8613
+Pendidikan,Jan,1,44.12,38.53,17.34,33564
+Pendidikan,Feb,2,49.48,31.12,19.4,13088
+Pendidikan,Mar,3,46.64,31.72,21.63,38237
+Pendidikan,Apr,4,45.82,28.43,25.75,16948
+Pendidikan,Mei,5,49.85,34.04,16.11,34860
+Pendidikan,Jun,6,46.2,31.76,22.04,11113
+Kesehatan,Jan,1,44.73,24.6,30.66,32122
+Kesehatan,Feb,2,45.48,31.1,23.41,16778
+Kesehatan,Mar,3,47.5,24.5,28.01,32331
+Kesehatan,Apr,4,45.93,28.3,25.76,21605
+Kesehatan,Mei,5,42.98,32.02,25.01,41005
+Kesehatan,Jun,6,46.35,27.3,26.34,26597
+Bansos,Jan,1,54.34,24.1,21.56,18388
+Bansos,Feb,2,53.16,27.39,19.46,14553
+Bansos,Mar,3,55.04,24.18,20.78,43653
+Bansos,Apr,4,55.72,22.94,21.34,22248
+Bansos,Mei,5,55.08,25.18,19.74,42637
+Bansos,Jun,6,53.39,23.21,23.41,11595
+IKN Nusantara,Jan,1,34.15,26.96,38.89,33789
+IKN Nusantara,Feb,2,35.7,23.04,41.26,18862
+IKN Nusantara,Mar,3,35.89,25.22,38.89,37536
+IKN Nusantara,Apr,4,44.53,15.6,39.87,37444
+IKN Nusantara,Mei,5,34.41,30.32,35.27,29396
+IKN Nusantara,Jun,6,34.91,29.43,35.66,28077

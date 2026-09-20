@@ -1,0 +1,10 @@
+{
+  "r2_rf": 0.537,
+  "mae_rf": 2.899,
+  "r2_gb": 0.585,
+  "mae_gb": 2.641,
+  "total_suara_pilpres": 172089686,
+  "partisipasi_rata2": 80.55,
+  "lolos_threshold": 9,
+  "jumlah_provinsi": 38
+}
