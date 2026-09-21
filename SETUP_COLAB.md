@@ -4,6 +4,41 @@ Panduan langkah demi langkah menjalankan project di **Google Colab** — cloud n
 
 ---
 
+## ⭐ Cara Termudah (1 file, 0 upload lain) — DIREKOMENDASIKAN
+
+Pakai **`Analisis_Elektoral_Pemilu_2024_Colab.ipynb`** — versi khusus Colab yang self-contained:
+
+- ✅ Install semua dependencies otomatis di cell pertama
+- ✅ Fetch 5 CSV langsung dari GitHub raw URL — **tidak perlu upload CSV apapun**
+- ✅ Cukup 1 file saja yang perlu di-upload
+
+### Langkah super singkat:
+1. Buka https://colab.research.google.com/
+2. **File → Upload notebook** → pilih `Analisis_Elektoral_Pemilu_2024_Colab.ipynb`
+3. **Runtime → Run all** (Ctrl+F9)
+4. Tunggu ~2 menit, semua chart tampil.
+
+**Atau lebih cepat — klik badge Colab di README GitHub:**
+```
+https://colab.research.google.com/github/wahyuarizeina/Analisis-Data-Elektoral-Pemilu-2024-Indonesia/blob/main/Analisis_Elektoral_Pemilu_2024_Colab.ipynb
+```
+Notebook langsung terbuka di Colab, tanpa upload apapun.
+
+---
+
+## Beda Versi Notebook
+
+| File | Untuk | CSV loading | Perlu upload |
+|---|---|---|---|
+| `Analisis_Elektoral_Pemilu_2024.ipynb` | Jupyter lokal | file lokal (`pd.read_csv('data_...')`) | Notebook + 5 CSV |
+| `Analisis_Elektoral_Pemilu_2024_Colab.ipynb` ⭐ | Google Colab | GitHub raw URL | **Hanya 1 file .ipynb** |
+
+Pakai versi `_Colab` di Google Colab. Versi tanpa suffix untuk Jupyter lokal.
+
+---
+
+---
+
 ## Kenapa Google Colab?
 
 - **Gratis** — tidak perlu bayar
