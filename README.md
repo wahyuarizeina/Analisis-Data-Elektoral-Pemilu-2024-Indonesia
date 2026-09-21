@@ -4,6 +4,8 @@ Analisis data elektoral Pemilu 2024 Indonesia end-to-end: EDA · segmentasi K-Me
 
 **Author:** Wahyu Surya · **Tahun:** 2024
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wahyuarizeina/Analisis-Data-Elektoral-Pemilu-2024-Indonesia/blob/main/Analisis_Elektoral_Pemilu_2024.ipynb)
+
 ---
 
 ## Live Preview
@@ -14,6 +16,8 @@ Analisis data elektoral Pemilu 2024 Indonesia end-to-end: EDA · segmentasi K-Me
 - **Slide deck:** [Slides_Elektoral_2024.pptx](Slides_Elektoral_2024.pptx)
 - **Laporan analis:** [INSIGHTS.md](INSIGHTS.md)
 - **Tanya-jawab lengkap:** [TANYA_JAWAB.md](TANYA_JAWAB.md) — referensi menyeluruh setiap komponen + Q&A wawancara
+- **Tools & library:** [TOOLS.md](TOOLS.md) — semua tools dijelaskan + cara kerjanya
+- **Setup Google Colab:** [SETUP_COLAB.md](SETUP_COLAB.md) — panduan run di cloud tanpa install lokal
 
 ### Deploy ke Vercel (1x klik)
 1. https://vercel.com/new → import repo ini
